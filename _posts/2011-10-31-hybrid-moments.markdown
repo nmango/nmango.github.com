@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Hybrid Moments"
+alias: /post/12163806766/hybrid-moments/index.html
+---
+
+<p class="image">
+  <img src="http://media.tumblr.com/tumblr_ltxuj7IxY01qlyu5j.jpg"/>
+</p>
+
+This Saturday the 4 show Danzig Legacy Tour made it to the Hammerstein Ballroom in NYC and Tom and I went out to catch it. If you don’t know what this is, it’s Danzig doing songs from all three of his bands, Danzig, Samhain, and Misfits. I love all of his bands a great deal. Enough to spend thousands on shirts, artwork, and tattoos, yet I had never seen them live. The problem is that even though I’m in my early 30s, I was still not around for the Misfits, Samhain, or into the original Danzig lineup that toured prior to 1995. I didn’t start liking these bands till the late 90s when the local bands that I grew up loving started to break up, and I began to look elsewhere for music to listen to. What’s even more interesting than getting tattoos from a band I never saw live, is I had never been to a concert before. Live music of course. I’ve probably seen more live music than 99.9% of the world. But an actual “concert” I had never been to. From my teens to my mid 20s I probably saw 7 to 12 shows a month. All local shows from touring bands or bands based out of Long Island. Never more than a 1000 people and most of the time no more than 200. I grew up on a steady dose of Punk and Hardcore. There was only one time where I questioned if I had been to a “concert” and still to this day, I’m not completely sure. The year was 2003 and my buddies from a Canadian band named <a href="http://www.facebook.com/moneen?sk=app_19935916616">Moneen</a> invited my friend Brian and I to see them play with Taking Back Sunday and Saves The Day in Asbury Park, NJ. This was the largest show/concert I had ever been to. I’ve went to fests sure, but that’s a fest, this is just 3 bands. There might have been 2000 people there. I felt pretty out of place. I didn’t even go out into the crowd, just hung out behind the rail near an emergency exit. Maybe that <i>was</i> my first concert, but since it was my friends playing, who really aren’t huge or anything, I never really saw it as a concert. I could have been in denial. Either way, seeing Danzig is a concert and I think no matter what that Saves the Day tour was, the cherry is no doubt popped.
+
+A couple of things of note about Saturday night. One is that, even though I love Misfits and Danzig, for some reason the Samhain set was my favorite. Most people think this is his worst band of the three, and I might agree with that, but Saturday night it was his best. It might have been <a href="http://en.wikipedia.org/wiki/Tommy_Victor">Tommy Victor</a>. That dude can play. He handled the tempo change well. Danzig was smart about the set layout too. They did new Danzig, then went into Danzig I – IV stuff, then went directly into Samhain material. Basically it allowed the entire band to slow down naturally with the songs. It also allowed for less guitar changes which helps keep the crowd into it. And maybe this tempo changed worked on me as well. By the time they got to Samhain material I was ready to jump over the railing with anticipation. They played <a href="http://www.youtube.com/watch?v=fPUYb0Y6cvU">Let The Day Begin</a> and I didn't stop smiling till I paid my $41 parking garage bill and Tom and I hit the LIE for a rare October snow storm.
+
+Last thing of note. We’re about an hour into the set when they lowered the Misfits backdrop and I was amazed to see how many people pulled out their cellphones to take pictures. Lot of punks out there grew up, got jobs, and turned into adults. Yet they still get gitty when they see the crimson ghost.
+
+<p class="image">
+  <img src="http://media.tumblr.com/tumblr_ltxvjlVT1m1qlyu5j.jpg"/>
+</p>

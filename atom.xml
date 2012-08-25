@@ -1,0 +1,37 @@
+---
+layout: nil
+source: "http://www.codeography.com/2009/03/30/getting-started-with-jekyll.html"
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Nick Mango</title>
+  <link href="http://nickmango.com/atom.xml" rel="self"/>
+  <link href="http://nickmango.com/"/>
+  <updated>{{site.time | date_to_xmlschema }}</updated>
+  <id>http://nickmango.com</id>
+  <author>
+    <name>Nick Mango</name>
+    <email>nick@limitedrun.com</email>
+  </author>
+
+  {% for post in site.posts %}
+	{% if post.permalink %}
+		<entry>
+	      <title>{{ post.title }}</title>
+	      <link href="{{ post.permalink }}"/>
+	      <updated>{{post.date | date_to_xmlschema }}</updated>
+	      <id>{{ post.permalink }}</id>
+	      <content type="html">{{ post.content | xml_escape }}</content>
+	    </entry>
+	{% else %}
+		<entry>
+	      <title>{{ post.title }}</title>
+	      <link href="http://nickmango.com{{ post.id }}"/>
+	      <updated>{{post.date | date_to_xmlschema }}</updated>
+	      <id>http://nickmango.com{{ post.id }}</id>
+	      <content type="html">{{ post.content | xml_escape }}</content>
+	    </entry>
+	{% endif %}
+  {% endfor %}
+</feed>
