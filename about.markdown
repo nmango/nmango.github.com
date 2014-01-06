@@ -3,14 +3,14 @@ layout: default
 permalink: about/index.html
 ---
 
-My name is Nick and I own a few internet companies, been collecting vinyl since the mid 90s, love Sherlock Holmes, Se-port Deli, and [Danzig T-shirts](http://teesfrommars.com).
+My name is Nick Mango and I own a few internet companies, been collecting vinyl since the mid 90s, love Sherlock Holmes, Se-port Deli, and [Fly Fishing](http://alternate1985.com).
 
 ---
 **These are mine:**
 
 * [Limited Run](http://limitedrun.com) - Hosted store platform for people selling unique products like Music, Toys, Art, etc.
 * [Card Included](http://cardincluded.com) - First of it's kind download card service that lets you build and print cards with ridiculous speed.
- 
+* [Rails Rumble](http://railsrumble.com) - The largest App building competition in the world. 
 
 ---
 **These are about me, or my companies**
@@ -21,7 +21,6 @@ My name is Nick and I own a few internet companies, been collecting vinyl since 
 
 * [Trusting Platforms](http://cdixon.org/2011/12/20/trusting-platforms/)
 * [Nick Mango and the Fine Art of Indie Vinyl Releases](http://www.hypebot.com/hypebot/2011/08/nick-mango-on-the-fine-art-of-indie-vinyl-releases.html)
-* [Why Pressing Plants Keep Raising Flags](http://www.digitalmusicnews.com/stories/073111vinyl)
 
 
 *Limited Run*
