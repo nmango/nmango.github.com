@@ -3,7 +3,7 @@ layout: default
 permalink: about/index.html
 ---
 
-My name is Nick Mango and I own a few internet companies, been collecting vinyl since the mid 90s, love Sherlock Holmes, Se-port Deli, and [Danzig T-shirts](http://teesfrommars.com).
+My name is Nick and I own a few internet companies, been collecting vinyl since the mid 90s, love Sherlock Holmes, Se-port Deli, and [Danzig T-shirts](http://teesfrommars.com).
 
 ---
 **These are mine:**
