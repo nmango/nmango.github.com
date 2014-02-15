@@ -6,7 +6,7 @@ permalink: about/index.html
 My name is Nick Mango and I own a few internet companies, been collecting vinyl since the mid 90s, love Sherlock Holmes, Se-port Deli, and [Fly Fishing](http://alternate1985.com).
 
 ---
-**These are mine:**
+**These are me:**
 
 * [Limited Run](http://limitedrun.com) - Hosted store platform for people selling unique products like Music, Toys, Art, etc.
 * [Card Included](http://cardincluded.com) - First of it's kind download card service that lets you build and print cards with ridiculous speed.
