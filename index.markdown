@@ -8,7 +8,7 @@ My name is Nick Mango and I own some [companies](/about), collect some [records]
 
 <ul>
   {% for post in site.posts limit:10 %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> on {{ post.date | date: "%b %d, %Y" }}</li>
+    <li><a href="{% if post.permalink %}{{ post.permalink }}{% else %}{{ post.url }}{% endif %}">{{ post.title }}</a> on {{ post.date | date: "%b %d, %Y" }}</li>
   {% endfor %}
 </ul>
 
